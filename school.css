@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://www.shutterstock.com/image-photo/adorable-hispanic-boy-streamer-playing-600nw-2210820315.jpg);
+    background-size:cover;
+    color: white;
+}
+center{
+    color: #ffffffe7;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #0273cf 0px 0px 20px, #0d8bd3 0px 0px 30px, #74cfeb 0px 0px 40px, #28e9f7 0px 0px 50px, #6fd2df 0px 0px 75px;
+    font-size: 25px;
+}
+button{
+    -webkit-box-shadow: inset -1px 3px 8px 5px #0077ff, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: inset -1px 3px 8px 5px #0077ff, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    
+};
+.p{  
+    color: #ffffffe7;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #0273cf 0px 0px 20px, #0d8bd3 0px 0px 30px, #74cfeb 0px 0px 40px, #28e9f7 0px 0px 50px, #6fd2df 0px 0px 75px;
+    font-size: 25px; 
+}
